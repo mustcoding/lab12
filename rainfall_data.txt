@@ -1,0 +1,10 @@
+Station ID: 2421003
+Station Name: Simpang Ampat
+District: Alor Gajah
+Rainfall Readings:
+Day 1: 5
+Day 2: 0
+Day 3: 0
+Day 4: 4
+Day 5: 1
+Day 6: 0
